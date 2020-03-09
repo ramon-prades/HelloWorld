@@ -1,4 +1,4 @@
-![headshot](sarah_pic.jpeg)
+![headshot](viewImage.jfif)
 # HelloWorld
 Repositorio para prácticar con el libro "GitHub for Dummies"
 
